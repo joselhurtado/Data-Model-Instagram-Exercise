@@ -1,4 +1,6 @@
-# Create the database model for Instagram
+# Data-Model-Instagram-Exercise
+
+<img src='/assets/diagram_IG_new.png' />
 
 **Important**: To do this activity you need to `fork` this repo into your **Github** account and then open the forked repo on Gitpod.
 
